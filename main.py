@@ -1,5 +1,7 @@
 from math import factorial
 
+#hehehhehehe look i forked and connected to replit
+
 row_length = 50
 num_set = [1, 2, 3, 4]
 
